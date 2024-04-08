@@ -1,0 +1,111 @@
+Sample Table:
+k_values: 5, 10, 15, 20, 50
+
+
+Value of k              sse                     Size of each cluster
+----------------------  ----------------------  ----------------------
+5                       1194.910991170879       1: 293 tweets
+                                                2: 306 tweets
+                                                3: 88 tweets
+                                                4: 175 tweets
+                                                5: 538 tweets
+----------------------  ----------------------  ----------------------
+10                      1128.4604566554528      1: 86 tweets
+                                                2: 153 tweets
+                                                3: 96 tweets
+                                                4: 272 tweets
+                                                5: 255 tweets
+                                                6: 37 tweets
+                                                7: 72 tweets
+                                                8: 51 tweets
+                                                9: 160 tweets
+                                                10: 218 tweets
+----------------------  ----------------------  ----------------------
+15                      1103.6718482093818      1: 196 tweets
+                                                2: 19 tweets
+                                                3: 24 tweets
+                                                4: 136 tweets
+                                                5: 41 tweets
+                                                6: 78 tweets
+                                                7: 128 tweets
+                                                8: 107 tweets
+                                                9: 26 tweets
+                                                10: 127 tweets
+                                                11: 40 tweets
+                                                12: 164 tweets
+                                                13: 38 tweets
+                                                14: 77 tweets
+                                                15: 199 tweets
+----------------------  ----------------------  ----------------------
+20                      1092.097102163363       1: 48 tweets
+                                                2: 25 tweets
+                                                3: 16 tweets
+                                                4: 32 tweets
+                                                5: 63 tweets
+                                                6: 46 tweets
+                                                7: 62 tweets
+                                                8: 47 tweets
+                                                9: 65 tweets
+                                                10: 38 tweets
+                                                11: 123 tweets
+                                                12: 184 tweets
+                                                13: 96 tweets
+                                                14: 108 tweets
+                                                15: 113 tweets
+                                                16: 140 tweets
+                                                17: 68 tweets
+                                                18: 9 tweets
+                                                19: 39 tweets
+                                                20: 78 tweets
+----------------------  ----------------------  ----------------------
+50                      1017.6542873406054      1: 21 tweets
+                                                2: 43 tweets
+                                                3: 35 tweets
+                                                4: 10 tweets
+                                                5: 71 tweets
+                                                6: 29 tweets
+                                                7: 60 tweets
+                                                8: 20 tweets
+                                                9: 75 tweets
+                                                10: 43 tweets
+                                                11: 21 tweets
+                                                12: 19 tweets
+                                                13: 28 tweets
+                                                14: 46 tweets
+                                                15: 44 tweets
+                                                16: 37 tweets
+                                                17: 3 tweets
+                                                18: 44 tweets
+                                                19: 10 tweets
+                                                20: 4 tweets
+                                                21: 3 tweets
+                                                22: 15 tweets
+                                                23: 5 tweets
+                                                24: 9 tweets
+                                                25: 11 tweets
+                                                26: 58 tweets
+                                                27: 8 tweets
+                                                28: 29 tweets
+                                                29: 9 tweets
+                                                30: 33 tweets
+                                                31: 54 tweets
+                                                32: 20 tweets
+                                                33: 18 tweets
+                                                34: 34 tweets
+                                                35: 25 tweets
+                                                36: 30 tweets
+                                                37: 18 tweets
+                                                38: 11 tweets
+                                                39: 37 tweets
+                                                40: 5 tweets
+                                                41: 13 tweets
+                                                42: 43 tweets
+                                                43: 23 tweets
+                                                44: 33 tweets
+                                                45: 13 tweets
+                                                46: 38 tweets
+                                                47: 61 tweets
+                                                48: 11 tweets
+                                                49: 66 tweets
+                                                50: 4 tweets
+----------------------  ----------------------  ----------------------
